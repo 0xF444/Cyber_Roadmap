@@ -29,7 +29,7 @@
 بالنسبة للينكس فأنا عن نفسي كنت واخد كورس علي اليوتيوب من دكتور [احمد العرباوي](https://www.youtube.com/@Linux4Embedded)
 بإسم [Course 101: Introduction to Embedded Linux](https://www.youtube.com/watch?v=1_I-3Oi-y5g&list=PLWXRxAK4bUzcpkyP9PsKmtXzVDHVOOGsi&pp=iAQB) و **[Course 102: Understanding Linux](https://www.youtube.com/watch?v=E37vUKRpQwA&list=PLWXRxAK4bUzc9gq-W2xWDe9zEaDcowLfs&pp=iAQB)** و دول بصراحة احسن كورسات لينكس ممكن تلاقيها علي اليوتيوب، و لكنها طويلة شوية بس المعلومات اللي فيها قيّمة جداً و هتفيدك اوي.
 
-في بردو بعض الناس بيقترحوا [+CompTIA Linux](https://www.comptia.org/certifications/linux) و انا عن نفسي مجربتهاش و لكنها جملية جداً و هتساعدك
+في بردو بعض الناس بيقترحوا [+CompTIA Linux](https://www.comptia.org/certifications/linux) و انا عن نفسي مجربتهاش و لكنها جميلة جداً و هتساعدك
 
 بالنسبة لWindows فدي هتطرق ليها في اخر الجزء ده.
 
@@ -75,3 +75,5 @@
 
 في بشمهندس كان حاطط Roadmap جميلة إسمه بشمهندس [نضال فكري](https://twitter.com/Nidal4real)
 هحطها في الRepo، ممكن تاخد منها الEntry Level بس لو انت حابب انك تكون Malware Analyst زيي فممكن تتبعها كلها.
+
+اهم نصيحة ليك كمبتدأ في المجال هو إنك تدور علي Mentor يدلك علي المعلومة و يثبتك لإن سهل جداً جداً انك تتوه في بحر المجال. اشهر الMentors موجودين علي لينكدان او تويتر.
